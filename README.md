@@ -101,14 +101,6 @@ Projetos experimentais para aprendizado de conceitos avançados.
 
 ---
 
-## **Como Contribuir**
-1. Faça um fork deste repositório.
-2. Crie uma nova branch: `git checkout -b minha-feature`.
-3. Faça as alterações desejadas e adicione os commits: `git commit -m 'Minha nova feature'`.
-4. Envie as alterações: `git push origin minha-feature`.
-5. Abra um Pull Request.
-
----
 
 ## **Licença**
 Este repositório é licenciado sob a licença MIT. Sinta-se à vontade para usar os projetos como desejar.
